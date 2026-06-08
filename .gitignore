@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+*.log
+Thumbs.db
+
+# 内部ドキュメント（公開しない）
+案件メモ.md
+最後の提案.md
